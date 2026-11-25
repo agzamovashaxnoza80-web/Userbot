@@ -1,0 +1,15 @@
+# Akkauntga kirish kalitlari: HECH QACHON GitHub'ga yuklanmasin
+*.session
+*.session-journal
+session_matn.txt
+.env
+
+# Bot ishlaganda hosil bo'ladigan fayllar
+holat.json
+bot.log
+
+# Boshqa
+.venv/
+__pycache__/
+*.pyc
+*.eski
